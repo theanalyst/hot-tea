@@ -12,6 +12,10 @@ h1{
     font-family: "Varela Round";
 }
 
+p{
+    font-size: 28px;
+    font-family: "Varela Round";
+}
 .middle{
     height: 60%;
     bottom: 10%;
